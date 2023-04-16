@@ -14,5 +14,5 @@ Reasons for choosing "Pacman" :
       
       - Since,there's an issue with animation and movement we're trying minimize complexity.
       
-      
+The pacman game is referenced from  "https://itnext.io/how-to-create-pac-man-in-python-in-300-lines-of-code-or-less-part-1-288d54baf939"   
 Our final goal with second release to enable Unity 2D templates as a part of the game prototype.
