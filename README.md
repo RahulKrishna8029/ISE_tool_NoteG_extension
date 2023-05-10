@@ -49,7 +49,7 @@ the screenshots of menu and game will be added down here.
 ![image](https://github.com/RahulKrishna8029/ISE_tool_NoteG_extension/assets/75737935/a67f9fdc-723d-4066-8a5c-9855a3ebd905)
 
 
-
+![Alt text](https://github.com/RahulKrishna8029/ISE_tool_NoteG_extension/blob/main/bomberman.gif)
 
 Our final goal with second release to enable Unity 2D templates as a part of the game prototype.
 
